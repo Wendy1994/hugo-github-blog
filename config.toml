@@ -1,4 +1,4 @@
 baseURL = "https://wendy1994.github.io/hugo-github-blog/"
-languageCode = "zh-cn"
+languageCode = "en-us"
 title = "冷暖自知，不过寒凉"
 theme="cactus"
