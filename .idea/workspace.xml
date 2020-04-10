@@ -3,46 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="12011d75-f978-41e7-b0bc-ec804df8e31b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/content/posts/隐藏的人物观后感.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/隐藏的人物观后感.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/highlight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/monosocialiconsfont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/MonoSocialIconsFont-1.10.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/MonoSocialIconsFont-1.10.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/MonoSocialIconsFont-1.10.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/MonoSocialIconsFont-1.10.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/MonoSocialIconsFont-1.10.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/avatar@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/js/highlight.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/js/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/js/jquery.tagcloud.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/不问将来/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/婚姻与自我见解/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/平和与戾气/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/隐藏的人物观后感" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/content/posts/隐藏的人物观后感.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -228,15 +188,16 @@
       <workItem from="1586091343344" duration="3182000" />
       <workItem from="1586098159814" duration="769000" />
       <workItem from="1586433884230" duration="1027000" />
-      <workItem from="1586526321040" duration="2939000" />
+      <workItem from="1586526321040" duration="3345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7917000" />
+    <option name="totallyTimeSpent" value="8323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="23" width="1440" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -282,16 +243,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/posts/平和与戾气.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/posts/不问将来.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -312,10 +263,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/平和与戾气.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/posts/隐藏的人物观后感.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="23" selection-end-column="3" />
         </state>
       </provider>
     </entry>
